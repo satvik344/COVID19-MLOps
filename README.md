@@ -53,7 +53,7 @@ Tracks each regression model in MLflow:
 - Actual-vs-predicted diagnostic plots
 - Serialized sklearn model artifacts
 
-MLflow tracking data is stored locally in `mlruns/`.
+MLflow tracking data is stored locally in the SQLite database `mlflow.db`.
 
 ### Lab 5 — Production Data Pipeline
 `pipelines/run_lab5_pipeline.py`
