@@ -1,0 +1,11 @@
+{
+    "dataset": "c:\\Users\\SATVIK\\OneDrive\\Documents\\MLOPS\\COVID19_MLOps_Final\\data\\full_grouped.csv",
+    "feature_columns": [
+        "Previous_Day_Confirmed"
+    ],
+    "target": "Confirmed",
+    "train_rows": 149,
+    "test_rows": 38,
+    "best_model_by_rmse": "Linear Regression",
+    "random_seed": 42
+}
